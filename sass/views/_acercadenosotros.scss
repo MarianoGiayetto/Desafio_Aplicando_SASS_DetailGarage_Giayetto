@@ -1,0 +1,17 @@
+.nosotros{
+    display: flex;
+    flex-direction: column;
+    padding: $spacing-large;
+    align-items: center;
+}
+.titulo__nosotros{
+    color: $primary;
+    font-family: $font-titulo;    
+}
+
+.texto__nosotros{
+    font-size: $text-small;
+    text-align:justify;
+    color: $text-color;
+    padding: $spacing-xsmall;   
+}
